@@ -319,14 +319,17 @@ let (value, value2) = tupleName; // value/value2 now hold the tuple's first/seco
 
  <h2><b>_GHCI_</b></h2>
  
-<li><h4><b>Exemplo 1:</b></h4></li>
+<li><h4><b>Exemplo 1: Converter real para dólar e euro</b></h4></li>
 
+![Ex1](https://github.com/user-attachments/assets/aebeebd2-45fe-4887-b2d6-b411ad80555b)
 
-<li><h4><b>Exemplo 2:</b></h4></li>
+<li><h4><b>Exemplo 2: Informações de um livro</b></h4></li>
 
+![Ex2](https://github.com/user-attachments/assets/1f4dfec1-1ef8-4ad9-85cf-07092c11c6aa)
 
-<li><h4><b>Exemplo 3:</b></h4></li>
+<li><h4><b>Exemplo 3: Filtra os resultados maiores que 2</b></h4></li>
 
+![Ex3](https://github.com/user-attachments/assets/70fab18d-81dc-4de2-81ba-b77dc7b1df35)
 </ul>
 
 
