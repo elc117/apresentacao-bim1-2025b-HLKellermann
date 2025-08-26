@@ -112,7 +112,7 @@ map fst [(1,2)(3,4)(5,6)]    --retorna [1,3,5]
 ```
 
 <li><b>Pattern Matching:</b></li> Usa os construtores da tupla. Pode-se usar esse método para tuplas maiores:
-
+<img width="492" height="148" alt="Image" src="https://github.com/user-attachments/assets/1e754329-7b3e-4c69-8ad5-665a0cf341b5" />
 <li><b>Função curry:</b> converte uma função que recebe tuplas em uma que recebe 2 argumentos:</li>
 
 <li><b>Função uncurry:</b> converte função de argumentos em função de tuplas</li>
