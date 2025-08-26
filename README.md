@@ -116,20 +116,23 @@ map fst [(1,2)(3,4)(5,6)]    --retorna [1,3,5]
 <li><b>Função curry:</b> converte uma função que recebe tuplas em uma que recebe 2 argumentos:</li>
 
 <li><b>Função uncurry:</b> converte função de argumentos em função de tuplas</li>
-
+<img width="524" height="226" alt="Image" src="https://github.com/user-attachments/assets/9adafc45-c131-4fd1-84ed-979c2db62893" />
 <li><b>Função zip:</b> transforma duas listas em uma lista de tuplas:</li>
 
 <li><b>Função swap:</b> troca os elementos de um par:</li>
+<img width="272" height="59" alt="Image" src="https://github.com/user-attachments/assets/430097f2-926f-4f7e-9b9d-a5a67851b539" />
 </ul>
 ou:
+<img width="432" height="37" alt="Image" src="https://github.com/user-attachments/assets/ed83e989-d0bb-4879-b377-93cb7c808b94" />
 
 <h4>OUTROS EXEMPLOS E PROGRAMAS COM TUPLAS</h4>
 
 <h5>Ex1:</h5>
-
+<img width="284" height="266" alt="Image" src="https://github.com/user-attachments/assets/e78538fc-c53f-40e2-a8b3-6712301e6fae" />
 <h5>Ex2:</h5>
-
+<img width="230" height="91" alt="Image" src="https://github.com/user-attachments/assets/2ff15d4a-210b-4f13-9e3b-d9dc21f61038" />
+<img width="527" height="77" alt="Image" src="https://github.com/user-attachments/assets/8a91ec80-b1ca-46c2-b096-e1ed91f42b72" />
 <h5>Ex3:</h5>
-
+<img width="678" height="388" alt="Image" src="https://github.com/user-attachments/assets/0d2c1244-7dd5-4a46-a321-f4d9a73f484b" />
 
 
