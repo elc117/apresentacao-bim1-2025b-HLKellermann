@@ -323,14 +323,29 @@ let (value, value2) = tupleName; // value/value2 now hold the tuple's first/seco
 
 ![Ex1](https://github.com/user-attachments/assets/aebeebd2-45fe-4887-b2d6-b411ad80555b)
 
+```haskell
+--valores das moedas no dia 26/08/2025
+converter real = (real, real*5.41, real*6.29)
+```
+
 <li><h4><b>Exemplo 2: Informações de um livro</b></h4></li>
 
 ![Ex2](https://github.com/user-attachments/assets/1f4dfec1-1ef8-4ad9-85cf-07092c11c6aa)
+
+```haskell
+type Livro = (String, String, Int)
+l1::Livro = ("", "", ) --dê um nome para sua variável e adicione os dados da tupla
+```
 
 <li><h4><b>Exemplo 3: Filtra os resultados maiores que 2</b></h4></li>
 
 ![Ex3](https://github.com/user-attachments/assets/70fab18d-81dc-4de2-81ba-b77dc7b1df35)
 </ul>
+
+```haskell
+maior x = x>2
+filter maior (map (uncurry (+))) [(,), (,), (,), (,), (,)]) --complete como quiser
+```
 
 
 <h2><b>_FONTES_</b></h2>
