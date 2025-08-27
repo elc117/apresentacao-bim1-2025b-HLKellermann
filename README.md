@@ -107,7 +107,7 @@ snd (1,2)  --retorna 2
 
 ```haskell
 snd (fst ((True,4), "Bom) )  --retorna 4
-map fst [(1,2)(3,4)(5,6)]    --retorna [1,3,5]
+map fst [(1,2), (3,4), (5,6)]    --retorna [1,3,5]
 ```
 
 <li><b>CURRY:</b> converte uma função que recebe tuplas em uma que recebe 2 argumentos:</li>
